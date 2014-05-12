@@ -1,6 +1,8 @@
-Steam
-=====
+MDwiki Seed
+===========
 
-Wiki for product
+### A basic file layout template that you can fork to build your own websites or wikis with MDwiki.
 
-Basic template file layout to start with MDwiki - see http://mdwiki.info
+#### See <http://mdwiki.info/> for details and documentation.
+
+
