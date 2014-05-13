@@ -2,7 +2,7 @@
 
 [About](about.md)
 [Page2](page2.md)
-[Page3](page3.md)
+[SIMPLY](http://atchan.tk/Simply.Me/)
 
 [Blog]()
 
