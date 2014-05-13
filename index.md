@@ -1,4 +1,10 @@
-About
+WIKI
 =====
 
-This is an MDwiki seed project. Edit the files to adopt to your website or wiki style.
+## Features
+
+这是一个发布Wiki的公共平台
+
+## 这里有什么?
+
+这里有很多东西，有些你会感兴趣，而有些你可能只会看一眼

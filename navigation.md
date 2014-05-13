@@ -1,6 +1,6 @@
-# YourPageTitle
+# Wiki
 
-[Page1](page1.md)
+[About](about.md)
 [Page2](page2.md)
 [Page3](page3.md)
 
@@ -11,10 +11,10 @@
   * [SubPage3](subpage/page3.md)
 
 <!-- set a default theme -->
-[gimmick:theme (inverse: false)](bootstrap)
+[gimmick:theme (inverse: false)](flatly)
 
 <!-- show a theme chooser in the menu bar -->
 [gimmick:ThemeChooser](Change theme)
 
 <!-- show a fork me on github ribbon -->
-[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki-seed/)
+[gimmick:forkmeongithub](http://github.com/rose1988c/steam)
