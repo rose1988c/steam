@@ -1,13 +1,20 @@
-# Wiki
+# Save Memory
 
 [About](about.md)
 [Page2](page2.md)
 [Page3](page3.md)
 
-[SubMenuName]()
+[Blog]()
 
-  * [SubPage1](subpage/page1.md)
-  * [SubPage2](subpage/page2.md)
+  * [AtChan](http://atchan.tk/)
+  * [Silence](http://atchan.tk/review/)
+  * [Season](http://atchen.duapp.com/)
+  * [Silence](http://atchan.tk/silence/)
+
+[Subpage]()
+
+  * [AtChan](subpage/page1.md)
+  * [Duapp](subpage/page2.md)
   * [SubPage3](subpage/page3.md)
 
 <!-- set a default theme -->
