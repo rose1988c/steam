@@ -6,10 +6,10 @@
 
 [Blog]()
 
-  * [AtChan](http://atchan.tk/)
-  * [Season](http://atchan.tk/review/)
-  * [Duapp](http://atchen.duapp.com/)
-  * [Silence](http://atchan.tk/silence/)
+  * [AtChan](http://atchan.tk/ "技术博客")
+  * [Season](http://atchan.tk/review/ "季节")
+  * [Duapp](http://atchen.duapp.com/ "TypechoBlog")
+  * [Silence](http://atchan.tk/silence/ "沉默")
 
 [Subpage]()
 
