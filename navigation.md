@@ -2,13 +2,13 @@
 
 [About](about.md)
 [Page2](page2.md)
-[SIMPLY](http://atchan.tk/Simply.Me/)
+[Simply](http://atchan.tk/Simply.Me/)
 
 [Blog]()
 
   * [AtChan](http://atchan.tk/)
-  * [Silence](http://atchan.tk/review/)
-  * [Season](http://atchen.duapp.com/)
+  * [Season](http://atchan.tk/review/)
+  * [Duapp](http://atchen.duapp.com/)
   * [Silence](http://atchan.tk/silence/)
 
 [Subpage]()
