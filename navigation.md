@@ -1,8 +1,7 @@
 # Memory
 
 [About](about.md)
-[Page2](page2.md)
-[Simply](http://atchan.tk/Simply.Me/)
+[Resume](http://atchan.tk/Simply.Me/)
 
 [Subpage]()
 
@@ -24,11 +23,13 @@
   * [Lofter](http://cornerun.lofter.com/ "回忆")
   * [微博](http://weibo.com/349252963 "微博")
   * [腾讯微博](http://t.qq.com/vanilla1988?preview "腾讯微博")
+
+[Scenery]()
   * [Tumblr](http://rose214.tumblr.com/ "Tumblr")
   * [Instagram](http://instagram.com/rose1988c/ "Instagram")
 
 <!-- set a default theme -->
-[gimmick:theme (inverse: false)](flatly)
+[gimmick:theme (inverse: false)](yeti)
 
 <!-- show a theme chooser in the menu bar -->
 [gimmick:ThemeChooser](Change theme)
