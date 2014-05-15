@@ -13,6 +13,7 @@
 [Blog]()
 
   * [AtChan](http://atchan.tk/ "技术博客")
+  * [CODE2U](http://code2u.sinaapp.com/ "我的代码")
   * [Season](http://atchan.tk/review/ "季节")
   * [Ayu-wen](http://ayu-wen.blog.163.com/ "时光蔓延")
   * [Duapp](http://atchen.duapp.com/ "TypechoBlog")
